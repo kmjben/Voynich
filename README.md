@@ -1,6 +1,7 @@
 # ☕ Support My Work
-If you found this research helpful or inspiring, consider supporting me:  
-👉 [ko-fi.com/minjxebenedictknthy](ko-fi.com/minjxebenedictknthy)
+
+If you found this research helpful or inspiring, you can support me here:  
+👉 [Buy me a coffee on Ko-fi](ko-fi.com/minjxebenedictknthy)
 
 
 # Voynich Semitic‑Root Analysis – Dataset Package
