@@ -1,7 +1,7 @@
-## ☕ Support My Work
-
+# ☕ Support My Work
 If you found this research helpful or inspiring, consider supporting me:  
 👉 [ko-fi.com/minjxebenedictknthy](ko-fi.com/minjxebenedictknthy)
+
 
 # Voynich Semitic‑Root Analysis – Dataset Package
 
