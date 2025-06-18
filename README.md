@@ -1,3 +1,8 @@
+## ☕ Support My Work
+
+If you found this research helpful or inspiring, consider supporting me:  
+👉 [ko-fi.com/minjxebenedictknthy](ko-fi.com/minjxebenedictknthy)
+
 # Voynich Semitic‑Root Analysis – Dataset Package
 
 This archive contains all raw data used to reproduce the results in the pre‑print *“Voynich Manuscript as a Semitic‑Root Ritual Text”*.
